@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Getafe",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-08T17:04:03.579Z",
+      "notes": "",
+      "position": {
+        "lat": "40.29628651711716",
+        "lng": "-3.6694335937500004"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Beni Abbes",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-03-08T18:33:18.256Z",
+      "notes": "",
+      "position": {
+        "lat": "29.53522956294847",
+        "lng": "-2.2631835937500004"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Zaragoza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-08T18:33:53.937Z",
+      "notes": "",
+      "position": {
+        "lat": "41.57436130598913",
+        "lng": "-0.7910156250000001"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Koszalin",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-03-08T18:42:38.229Z",
+      "notes": "",
+      "position": {
+        "lat": "54.20101023973888",
+        "lng": "16.193847656250004"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Obrzycko",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-03-08T18:48:30.416Z",
+      "notes": "",
+      "position": {
+        "lat": "52.70052221895687",
+        "lng": "16.528930664062504"
+      },
+      "id": 7
+    },
+    {
+      "cityName": "Saint Helier",
+      "country": "Jersey",
+      "emoji": "🇯🇪",
+      "date": "2024-03-11T11:13:44.753Z",
+      "notes": "dsdsds",
+      "position": {
+        "lat": "49.19965350270188",
+        "lng": "-2.1176147460937504"
+      },
+      "id": 8
+    }
+  ]
+}
