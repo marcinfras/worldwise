@@ -3,6 +3,11 @@
 
 WorldWise is a React app designed to let users discover cities across the globe. It provides detailed information about various cities, including their map locations, specific city details, and options for adding or removing cities.
 
+## Built with
+- React
+- Context API
+- ReactRouter
+- JSON Server
 
 ## Installation
 
@@ -37,4 +42,6 @@ npm run dev
 
 ![Home page](https://i.imgur.com/ZPEBLR3.png)
 ![App Screenshot](https://i.imgur.com/ehzGpjd.png)
+
+
 
